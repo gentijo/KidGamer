@@ -654,6 +654,27 @@
       "locked_code": false,
       "ids": {},
       "registry_name": "cheese"
+    },
+    {
+      "name": "DadsWickedSwordMakeItemGlow",
+      "type": "procedure",
+      "sortid": 68,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "dads_wicked_sword_make_item_glow",
+      "metadata": {
+        "dependencies": []
+      }
+    },
+    {
+      "name": "DadsWickedSword",
+      "type": "tool",
+      "sortid": 68,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "dads_wicked_sword"
     }
   ],
   "variable_elements": [],
@@ -668,15 +689,16 @@
       "item.kid_gamer.cheese": "Cheese",
       "block.kid_gamer.diededflower": "Diededflower",
       "block.kid_gamer.dragondustem_block": "Block of Dragondustem",
-      "item.kid_gamer.pizza": "Pizza",
       "item.kid_gamer.rawdough": "Rawdough",
+      "item.kid_gamer.pizza": "Pizza",
       "item.kid_gamer.mystic_gem": "Mystic Gem",
-      "fluid.kid_gamer.magic": "Magic",
       "block.kid_gamer.drakeseed": "Drakeseed",
+      "fluid.kid_gamer.magic": "Magic",
       "block.kid_gamer.youtubeore_ore": "Youtubeore Ore",
       "item.kid_gamer.thow_pichaxe": "Thow Pichaxe",
       "block.kid_gamer.dirtliquid": "Dirtliquid",
       "item.minecraft.potion.effect.curse": "Potion of Curse",
+      "item.kid_gamer.dads_wicked_sword": "Dads Wicked Sword",
       "block.kid_gamer.youtube_block": "Youtube Block",
       "item.kid_gamer.youtubeore": "Youtubeore",
       "item.kid_gamer.crust": "Crust",
