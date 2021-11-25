@@ -1,0 +1,42 @@
+{
+  "group": "kid_gamer",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "minecraft:packed_ice"
+    },
+    "1": {
+      "item": "minecraft:oak_slab"
+    },
+    "2": {
+      "item": "minecraft:packed_ice"
+    },
+    "3": {
+      "item": "minecraft:glass"
+    },
+    "4": {
+      "item": "minecraft:lava_bucket"
+    },
+    "5": {
+      "item": "minecraft:glass"
+    },
+    "6": {
+      "item": "minecraft:ice"
+    },
+    "7": {
+      "item": "minecraft:glass"
+    },
+    "8": {
+      "item": "minecraft:ice"
+    }
+  },
+  "result": {
+    "item": "kid_gamer:mystic_gem",
+    "count": 1
+  }
+}

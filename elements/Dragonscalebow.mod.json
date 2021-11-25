@@ -1,0 +1,27 @@
+{
+  "_fv": 24,
+  "_type": "tool",
+  "definition": {
+    "renderType": 0,
+    "texture": "dragonscalebow",
+    "customModelName": "Normal",
+    "name": "Dragonscalebow",
+    "specialInfo": [],
+    "creativeTab": {
+      "value": "COMBAT"
+    },
+    "toolType": "MultiTool",
+    "harvestLevel": 551,
+    "efficiency": 5554.0,
+    "attackSpeed": 5.0,
+    "enchantability": 5555,
+    "damageVsEntity": 55555.0,
+    "usageCount": 55555,
+    "blocksAffected": [],
+    "hasGlow": false,
+    "repairItems": [],
+    "immuneToFire": true,
+    "stayInGridWhenCrafting": true,
+    "damageOnCrafting": false
+  }
+}

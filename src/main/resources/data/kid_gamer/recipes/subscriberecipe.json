@@ -1,0 +1,42 @@
+{
+  "group": "kid_gamer",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "minecraft:red_wool"
+    },
+    "1": {
+      "item": "minecraft:red_wool"
+    },
+    "2": {
+      "item": "minecraft:red_wool"
+    },
+    "3": {
+      "item": "minecraft:white_wool"
+    },
+    "4": {
+      "item": "minecraft:white_wool"
+    },
+    "5": {
+      "item": "minecraft:white_wool"
+    },
+    "6": {
+      "item": "minecraft:red_wool"
+    },
+    "7": {
+      "item": "minecraft:red_wool"
+    },
+    "8": {
+      "item": "minecraft:red_wool"
+    }
+  },
+  "result": {
+    "item": "kid_gamer:subscribe",
+    "count": 1
+  }
+}

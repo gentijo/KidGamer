@@ -1,0 +1,10 @@
+{
+  "variants": {
+    "axis=z": {
+      "model": "kid_gamer:block/the_youtube_dimenshin_portal_ew"
+    },
+    "axis=x": {
+      "model": "kid_gamer:block/the_youtube_dimenshin_portal_ns"
+    }
+  }
+}

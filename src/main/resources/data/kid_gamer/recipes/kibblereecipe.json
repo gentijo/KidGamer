@@ -1,0 +1,42 @@
+{
+  "group": "kid_gamer",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "minecraft:cooked_chicken"
+    },
+    "1": {
+      "item": "minecraft:cooked_beef"
+    },
+    "2": {
+      "item": "minecraft:cooked_chicken"
+    },
+    "3": {
+      "item": "minecraft:cooked_beef"
+    },
+    "4": {
+      "item": "minecraft:cooked_porkchop"
+    },
+    "5": {
+      "item": "minecraft:cooked_beef"
+    },
+    "6": {
+      "item": "minecraft:cooked_chicken"
+    },
+    "7": {
+      "item": "minecraft:cooked_beef"
+    },
+    "8": {
+      "item": "minecraft:cooked_chicken"
+    }
+  },
+  "result": {
+    "item": "kid_gamer:kibble",
+    "count": 5
+  }
+}

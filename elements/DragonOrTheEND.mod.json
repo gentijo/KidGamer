@@ -1,0 +1,58 @@
+{
+  "_fv": 24,
+  "_type": "dimension",
+  "definition": {
+    "biomesInDimension": [
+      {
+        "value": "mutated_desert"
+      },
+      {
+        "value": "badlands_plateau"
+      },
+      {
+        "value": "CUSTOM:Dragonland"
+      },
+      {
+        "value": "CUSTOM:Dragonland"
+      },
+      {
+        "value": "CUSTOM:Dragonland"
+      }
+    ],
+    "worldGenType": "End like gen",
+    "mainFillerBlock": {
+      "value": "Blocks.LAPIS_BLOCK"
+    },
+    "fluidBlock": {
+      "value": "Blocks.EMERALD_BLOCK"
+    },
+    "airColor": {
+      "value": -16711732,
+      "falpha": 0.0
+    },
+    "canRespawnHere": true,
+    "hasFog": false,
+    "isDark": true,
+    "doesWaterVaporize": true,
+    "sleepResult": "ALLOW",
+    "hasSkyLight": false,
+    "imitateOverworldBehaviour": false,
+    "portalFrame": {
+      "value": "Blocks.GOLD_BLOCK"
+    },
+    "portalParticles": {
+      "value": "EXPLOSION_NORMAL"
+    },
+    "portalLuminance": 0,
+    "portalSound": {
+      "value": "block.portal.ambient"
+    },
+    "igniterName": "Dragon Or The END Portal Igniter",
+    "igniterTab": {
+      "value": "TOOLS"
+    },
+    "texture": "dragonamulet",
+    "portalTexture": "portalblock",
+    "enablePortal": true
+  }
+}

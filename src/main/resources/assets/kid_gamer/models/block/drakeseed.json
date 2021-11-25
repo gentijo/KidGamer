@@ -1,0 +1,7 @@
+{
+  "parent": "block/tinted_cross",
+  "textures": {
+    "cross": "kid_gamer:blocks/wq",
+    "particle": "kid_gamer:blocks/youtube5"
+  }
+}

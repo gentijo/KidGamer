@@ -1,0 +1,28 @@
+{
+  "_fv": 24,
+  "_type": "food",
+  "definition": {
+    "renderType": 0,
+    "texture": "wedawed",
+    "customModelName": "Normal",
+    "name": "Taco And Sushhi",
+    "rarity": "EPIC",
+    "specialInfo": [
+      "Super op"
+    ],
+    "creativeTab": {
+      "value": "FOOD"
+    },
+    "stackSize": 64,
+    "nutritionalValue": 92,
+    "saturation": 0.3,
+    "eatingSpeed": 1,
+    "resultItem": {
+      "value": "CUSTOM:EntitysSythe"
+    },
+    "forDogs": true,
+    "isAlwaysEdible": true,
+    "animation": "eat",
+    "hasGlow": false
+  }
+}

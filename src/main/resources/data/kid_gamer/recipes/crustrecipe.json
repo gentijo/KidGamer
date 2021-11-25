@@ -1,0 +1,23 @@
+{
+  "group": "kid_gamer",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "01",
+    " 3"
+  ],
+  "key": {
+    "0": {
+      "item": "kid_gamer:cookeddough"
+    },
+    "1": {
+      "item": "kid_gamer:cookeddough"
+    },
+    "3": {
+      "item": "kid_gamer:cookeddough"
+    }
+  },
+  "result": {
+    "item": "kid_gamer:crust",
+    "count": 1
+  }
+}

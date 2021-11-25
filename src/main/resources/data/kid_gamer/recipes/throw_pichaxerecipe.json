@@ -1,0 +1,30 @@
+{
+  "group": "kid_gamer",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    " 4 ",
+    " 7 "
+  ],
+  "key": {
+    "0": {
+      "item": "minecraft:iron_pickaxe"
+    },
+    "1": {
+      "item": "minecraft:iron_pickaxe"
+    },
+    "2": {
+      "item": "minecraft:iron_pickaxe"
+    },
+    "4": {
+      "item": "minecraft:stick"
+    },
+    "7": {
+      "item": "minecraft:blaze_rod"
+    }
+  },
+  "result": {
+    "item": "kid_gamer:thow_pichaxe",
+    "count": 1
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "group": "kid_gamer",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "kid_gamer:youtubeore"
+    },
+    "1": {
+      "item": "kid_gamer:youtubeore"
+    },
+    "2": {
+      "item": "kid_gamer:youtubeore"
+    },
+    "3": {
+      "item": "kid_gamer:youtubeore"
+    },
+    "4": {
+      "item": "kid_gamer:youtubeore"
+    },
+    "5": {
+      "item": "kid_gamer:youtubeore"
+    },
+    "6": {
+      "item": "kid_gamer:youtubeore"
+    },
+    "7": {
+      "item": "kid_gamer:youtubeore"
+    },
+    "8": {
+      "item": "kid_gamer:youtubeore"
+    }
+  },
+  "result": {
+    "item": "kid_gamer:youtubeore_block",
+    "count": 1
+  }
+}

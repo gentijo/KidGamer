@@ -1,0 +1,51 @@
+{
+  "_fv": 24,
+  "_type": "fluid",
+  "definition": {
+    "name": "Magic",
+    "bucketName": "Magic Bucket",
+    "textureStill": "portalblock",
+    "textureFlowing": "magicliquid",
+    "tintType": "No tint",
+    "canMultiply": true,
+    "flowRate": 15,
+    "levelDecrease": 5,
+    "slopeFindDistance": 5,
+    "spawnParticles": true,
+    "dripParticle": {
+      "value": "EXPLOSION_NORMAL"
+    },
+    "flowStrength": 5.0,
+    "luminosity": 0,
+    "density": 1000,
+    "viscosity": 1000,
+    "isGas": false,
+    "temperature": 300,
+    "type": "LAVA",
+    "generateBucket": true,
+    "textureBucket": "",
+    "creativeTab": {
+      "value": "MISC"
+    },
+    "emptySound": {
+      "value": ""
+    },
+    "rarity": "EPIC",
+    "specialInfo": [
+      "It will teleport mobs and freeze players"
+    ],
+    "resistance": 100.0,
+    "luminance": 0,
+    "lightOpacity": 0,
+    "emissiveRendering": false,
+    "tickRate": 10,
+    "flammability": 0,
+    "fireSpreadSpeed": 0,
+    "colorOnMap": "DEFAULT",
+    "frequencyOnChunks": 5,
+    "spawnWorldTypes": [
+      "Surface"
+    ],
+    "restrictionBiomes": []
+  }
+}

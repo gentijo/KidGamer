@@ -1,0 +1,7 @@
+{
+  "parent": "block/crop",
+  "textures": {
+    "crop": "kid_gamer:blocks/magicliquid",
+    "particle": "kid_gamer:blocks/magicliquid"
+  }
+}

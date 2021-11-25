@@ -1,0 +1,13 @@
+{
+  "group": "kid_gamer",
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "kid_gamer:dragondustem_block"
+    }
+  ],
+  "result": {
+    "item": "kid_gamer:dragondustem",
+    "count": 9
+  }
+}

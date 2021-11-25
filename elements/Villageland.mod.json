@@ -1,0 +1,152 @@
+{
+  "_fv": 24,
+  "_type": "biome",
+  "definition": {
+    "name": "Villageland",
+    "groundBlock": {
+      "value": "Blocks.GRASS"
+    },
+    "undergroundBlock": {
+      "value": "CUSTOM:YoutubeBlock"
+    },
+    "airColor": {
+      "value": -3355393,
+      "falpha": 0.0
+    },
+    "grassColor": {
+      "value": -3407668,
+      "falpha": 0.0
+    },
+    "foliageColor": {
+      "value": -16763905,
+      "falpha": 0.0
+    },
+    "waterColor": {
+      "value": -16711885,
+      "falpha": 0.0
+    },
+    "waterFogColor": {
+      "value": -65434,
+      "falpha": 0.0
+    },
+    "ambientSound": {
+      "value": ""
+    },
+    "additionsSound": {
+      "value": ""
+    },
+    "music": {
+      "value": ""
+    },
+    "moodSound": {
+      "value": ""
+    },
+    "moodSoundDelay": 6000,
+    "spawnParticles": false,
+    "particleToSpawn": {
+      "value": "EXPLOSION_NORMAL"
+    },
+    "particlesProbability": 0.5,
+    "biomeCategory": "PLAINS",
+    "parent": {
+      "value": "bamboo_jungle"
+    },
+    "rainingPossibility": 0.5,
+    "temperature": 2.0,
+    "baseHeight": 2.5,
+    "heightVariation": 1.6,
+    "biomeType": "ICY",
+    "spawnBiome": true,
+    "biomeWeight": 65,
+    "biomeDictionaryTypes": [],
+    "grassPerChunk": 4,
+    "seagrassPerChunk": 0,
+    "flowersPerChunk": 4,
+    "mushroomsPerChunk": 0,
+    "bigMushroomsChunk": 0,
+    "sandPatchesPerChunk": 0,
+    "gravelPatchesPerChunk": 0,
+    "reedsPerChunk": 0,
+    "cactiPerChunk": 0,
+    "treesPerChunk": 1,
+    "vanillaTreeType": "Default",
+    "treeType": 1,
+    "minHeight": 7,
+    "maxWaterDepth": 4,
+    "treeStem": {
+      "value": "Blocks.LIT_REDSTONE_ORE"
+    },
+    "treeBranch": {
+      "value": "Blocks.QUARTZ_BLOCK#2"
+    },
+    "treeVines": {
+      "value": "Blocks.SMOOTH_STONE"
+    },
+    "treeFruits": {
+      "value": "Blocks.EMERALD_BLOCK"
+    },
+    "spawnStronghold": false,
+    "spawnMineshaft": false,
+    "spawnPillagerOutpost": false,
+    "villageType": "plains",
+    "spawnWoodlandMansion": false,
+    "spawnJungleTemple": false,
+    "spawnDesertPyramid": false,
+    "spawnIgloo": false,
+    "spawnOceanMonument": false,
+    "spawnShipwreck": false,
+    "oceanRuinType": "NONE",
+    "defaultFeatures": [
+      "Caves",
+      "Ores",
+      "FrozenTopLayer"
+    ],
+    "spawnEntries": [
+      {
+        "entity": {
+          "value": "EntityVillager"
+        },
+        "minGroup": 4,
+        "maxGroup": 4,
+        "weight": 20,
+        "spawnType": "monster"
+      },
+      {
+        "entity": {
+          "value": "EntityPlayer"
+        },
+        "minGroup": 4,
+        "maxGroup": 4,
+        "weight": 20,
+        "spawnType": "monster"
+      },
+      {
+        "entity": {
+          "value": "EntityDragonFireball"
+        },
+        "minGroup": 4,
+        "maxGroup": 4,
+        "weight": 20,
+        "spawnType": "monster"
+      },
+      {
+        "entity": {
+          "value": "EntityDragon"
+        },
+        "minGroup": 4,
+        "maxGroup": 4,
+        "weight": 20,
+        "spawnType": "monster"
+      },
+      {
+        "entity": {
+          "value": "EntityIronGolem"
+        },
+        "minGroup": 4,
+        "maxGroup": 4,
+        "weight": 20,
+        "spawnType": "monster"
+      }
+    ]
+  }
+}

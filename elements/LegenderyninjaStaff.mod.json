@@ -1,0 +1,39 @@
+{
+  "_fv": 24,
+  "_type": "rangeditem",
+  "definition": {
+    "renderType": 0,
+    "texture": "staff",
+    "customModelName": "Normal",
+    "name": "Legenderyninja Staff",
+    "specialInfo": [
+      "This is the legendary ninja master staff of master wu"
+    ],
+    "creativeTab": {
+      "value": "COMBAT"
+    },
+    "stackSize": 1,
+    "ammoItem": {
+      "value": "Items.STICK"
+    },
+    "shootConstantly": false,
+    "usageCount": 1,
+    "actionSound": {
+      "value": "block.lava.pop"
+    },
+    "hasGlow": true,
+    "animation": "bow",
+    "enableMeleeDamage": false,
+    "damageVsEntity": 0.0,
+    "bulletPower": 1.0,
+    "bulletDamage": 5.0,
+    "bulletKnockback": 500,
+    "bulletParticles": true,
+    "bulletIgnitesFire": false,
+    "bulletItemTexture": {
+      "value": "CUSTOM:LegenderyninjaStaff"
+    },
+    "bulletModel": "Default",
+    "customBulletModelTexture": ""
+  }
+}

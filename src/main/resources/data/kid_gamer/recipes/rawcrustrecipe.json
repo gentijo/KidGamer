@@ -1,0 +1,23 @@
+{
+  "group": "kid_gamer",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "01",
+    " 3"
+  ],
+  "key": {
+    "0": {
+      "item": "kid_gamer:rawdough"
+    },
+    "1": {
+      "item": "kid_gamer:rawdough"
+    },
+    "3": {
+      "item": "kid_gamer:rawdough"
+    }
+  },
+  "result": {
+    "item": "kid_gamer:rawcrust",
+    "count": 1
+  }
+}

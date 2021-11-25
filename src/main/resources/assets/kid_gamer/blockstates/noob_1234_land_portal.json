@@ -1,0 +1,10 @@
+{
+  "variants": {
+    "axis=z": {
+      "model": "kid_gamer:block/noob_1234_land_portal_ew"
+    },
+    "axis=x": {
+      "model": "kid_gamer:block/noob_1234_land_portal_ns"
+    }
+  }
+}

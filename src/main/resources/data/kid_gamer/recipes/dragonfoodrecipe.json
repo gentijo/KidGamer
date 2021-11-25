@@ -1,0 +1,42 @@
+{
+  "group": "kid_gamer",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "kid_gamer:kibble"
+    },
+    "1": {
+      "item": "minecraft:cooked_salmon"
+    },
+    "2": {
+      "item": "kid_gamer:kibble"
+    },
+    "3": {
+      "item": "minecraft:cooked_salmon"
+    },
+    "4": {
+      "item": "kid_gamer:kibble"
+    },
+    "5": {
+      "item": "minecraft:cooked_salmon"
+    },
+    "6": {
+      "item": "kid_gamer:kibble"
+    },
+    "7": {
+      "item": "minecraft:cooked_salmon"
+    },
+    "8": {
+      "item": "kid_gamer:kibble"
+    }
+  },
+  "result": {
+    "item": "kid_gamer:dragonfood",
+    "count": 1
+  }
+}

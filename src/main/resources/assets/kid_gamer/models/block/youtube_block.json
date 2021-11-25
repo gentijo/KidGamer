@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "kid_gamer:blocks/youtube5",
+    "up": "kid_gamer:blocks/youtube5",
+    "north": "kid_gamer:blocks/youtube5",
+    "east": "kid_gamer:blocks/youtube5",
+    "south": "kid_gamer:blocks/youtube5",
+    "west": "kid_gamer:blocks/youtube5",
+    "particle": "kid_gamer:blocks/youtube5"
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "_fv": 24,
+  "_type": "tool",
+  "definition": {
+    "renderType": 0,
+    "texture": "dragondustsword",
+    "customModelName": "Normal",
+    "name": "Dragondustsword",
+    "specialInfo": [
+      "Old dragon sword lost in the blocks gaining its streangh back"
+    ],
+    "creativeTab": {
+      "value": "COMBAT"
+    },
+    "toolType": "Sword",
+    "harvestLevel": 25,
+    "efficiency": 25.5,
+    "attackSpeed": 15.5,
+    "enchantability": 25,
+    "damageVsEntity": 5.0,
+    "usageCount": 200,
+    "blocksAffected": [],
+    "hasGlow": false,
+    "repairItems": [
+      {
+        "value": "CUSTOM:Dragondustem"
+      }
+    ],
+    "immuneToFire": true,
+    "stayInGridWhenCrafting": false,
+    "damageOnCrafting": false
+  }
+}
