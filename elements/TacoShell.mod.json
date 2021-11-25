@@ -1,0 +1,28 @@
+{
+  "_fv": 24,
+  "_type": "food",
+  "definition": {
+    "renderType": 0,
+    "texture": "tacoshell",
+    "customModelName": "Normal",
+    "name": "Taco Shell",
+    "rarity": "RARE",
+    "specialInfo": [
+      "Part for dragon food"
+    ],
+    "creativeTab": {
+      "value": "FOOD"
+    },
+    "stackSize": 64,
+    "nutritionalValue": 20,
+    "saturation": 0.3,
+    "eatingSpeed": 5,
+    "resultItem": {
+      "value": ""
+    },
+    "forDogs": false,
+    "isAlwaysEdible": true,
+    "animation": "spear",
+    "hasGlow": false
+  }
+}
