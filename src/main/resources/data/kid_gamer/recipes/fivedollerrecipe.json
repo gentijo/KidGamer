@@ -1,0 +1,42 @@
+{
+  "group": "kid_gamer",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "kid_gamer:onedoller"
+    },
+    "1": {
+      "item": "minecraft:netherite_block"
+    },
+    "2": {
+      "item": "kid_gamer:onedoller"
+    },
+    "3": {
+      "item": "minecraft:netherite_block"
+    },
+    "4": {
+      "item": "kid_gamer:onedoller"
+    },
+    "5": {
+      "item": "minecraft:netherite_block"
+    },
+    "6": {
+      "item": "kid_gamer:onedoller"
+    },
+    "7": {
+      "item": "minecraft:netherite_block"
+    },
+    "8": {
+      "item": "kid_gamer:onedoller"
+    }
+  },
+  "result": {
+    "item": "kid_gamer:fivedollers",
+    "count": 5
+  }
+}

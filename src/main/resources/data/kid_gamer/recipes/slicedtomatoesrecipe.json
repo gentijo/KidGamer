@@ -1,0 +1,42 @@
+{
+  "group": "kid_gamer",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "kid_gamer:toematoe"
+    },
+    "1": {
+      "item": "kid_gamer:toematoe"
+    },
+    "2": {
+      "item": "kid_gamer:toematoe"
+    },
+    "3": {
+      "item": "kid_gamer:toematoe"
+    },
+    "4": {
+      "item": "kid_gamer:knife"
+    },
+    "5": {
+      "item": "kid_gamer:toematoe"
+    },
+    "6": {
+      "item": "kid_gamer:toematoe"
+    },
+    "7": {
+      "item": "kid_gamer:toematoe"
+    },
+    "8": {
+      "item": "kid_gamer:toematoe"
+    }
+  },
+  "result": {
+    "item": "kid_gamer:slicedtoematoes",
+    "count": 8
+  }
+}

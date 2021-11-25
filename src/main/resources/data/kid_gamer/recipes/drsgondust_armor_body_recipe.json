@@ -1,0 +1,39 @@
+{
+  "group": "kid_gamer",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "0 2",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "kid_gamer:drsgondust_dust"
+    },
+    "2": {
+      "item": "kid_gamer:drsgondust_dust"
+    },
+    "3": {
+      "item": "kid_gamer:drsgondust_dust"
+    },
+    "4": {
+      "item": "kid_gamer:drsgondust_dust"
+    },
+    "5": {
+      "item": "kid_gamer:drsgondust_dust"
+    },
+    "6": {
+      "item": "kid_gamer:drsgondust_dust"
+    },
+    "7": {
+      "item": "kid_gamer:drsgondust_dust"
+    },
+    "8": {
+      "item": "kid_gamer:drsgondust_dust"
+    }
+  },
+  "result": {
+    "item": "kid_gamer:drsgondust_armor_chestplate",
+    "count": 1
+  }
+}

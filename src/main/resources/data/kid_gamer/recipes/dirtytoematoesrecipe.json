@@ -1,0 +1,9 @@
+{
+  "group": "kid_gamer",
+  "type": "minecraft:stonecutting",
+  "count": 1,
+  "ingredient": {
+    "item": "kid_gamer:toematoe"
+  },
+  "result": "kid_gamer:dirtytoemeatoes"
+}

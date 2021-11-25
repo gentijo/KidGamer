@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "kid_gamer:blocks/cheese",
+    "up": "kid_gamer:blocks/cheese",
+    "north": "kid_gamer:blocks/cheese",
+    "east": "kid_gamer:blocks/cheese",
+    "south": "kid_gamer:blocks/cheese",
+    "west": "kid_gamer:blocks/cheese",
+    "particle": "kid_gamer:blocks/cheese"
+  }
+}

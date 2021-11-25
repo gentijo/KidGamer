@@ -1,0 +1,7 @@
+{
+  "parent": "block/cross",
+  "textures": {
+    "cross": "kid_gamer:blocks/rtgdrt",
+    "particle": "kid_gamer:blocks/rgesrg"
+  }
+}

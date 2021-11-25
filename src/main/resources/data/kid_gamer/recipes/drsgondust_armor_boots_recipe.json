@@ -1,0 +1,26 @@
+{
+  "group": "kid_gamer",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "0 2",
+    "3 5"
+  ],
+  "key": {
+    "0": {
+      "item": "kid_gamer:drsgondust_dust"
+    },
+    "2": {
+      "item": "kid_gamer:drsgondust_dust"
+    },
+    "3": {
+      "item": "kid_gamer:drsgondust_dust"
+    },
+    "5": {
+      "item": "kid_gamer:drsgondust_dust"
+    }
+  },
+  "result": {
+    "item": "kid_gamer:drsgondust_armor_boots",
+    "count": 1
+  }
+}

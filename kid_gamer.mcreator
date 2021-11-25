@@ -684,6 +684,585 @@
       "locked_code": false,
       "ids": {},
       "registry_name": "taco_shell"
+    },
+    {
+      "name": "Cheeseblock",
+      "type": "block",
+      "sortid": 70,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "cheeseblock"
+    },
+    {
+      "name": "Cheeseblockrecipe",
+      "type": "recipe",
+      "sortid": 71,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "cheeseblockrecipe"
+    },
+    {
+      "name": "Bag",
+      "type": "item",
+      "sortid": 72,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "bag"
+    },
+    {
+      "name": "Knife",
+      "type": "tool",
+      "sortid": 73,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "knife"
+    },
+    {
+      "name": "Tomateoplant",
+      "type": "plant",
+      "sortid": 74,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "tomateoplant"
+    },
+    {
+      "name": "Toematoe",
+      "type": "food",
+      "sortid": 75,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "toematoe"
+    },
+    {
+      "name": "Slicedtoematoes",
+      "type": "food",
+      "sortid": 76,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "slicedtoematoes"
+    },
+    {
+      "name": "Kniferecipe",
+      "type": "recipe",
+      "sortid": 77,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "kniferecipe"
+    },
+    {
+      "name": "Dirtytoemeatoes",
+      "type": "food",
+      "sortid": 78,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "dirtytoemeatoes"
+    },
+    {
+      "name": "Dirtytoematoesrecipe",
+      "type": "recipe",
+      "sortid": 79,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "dirtytoematoesrecipe"
+    },
+    {
+      "name": "Sliecedtoematoesrecipe",
+      "type": "recipe",
+      "sortid": 80,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "sliecedtoematoesrecipe"
+    },
+    {
+      "name": "Slicedtomatoesrecipe",
+      "type": "recipe",
+      "sortid": 81,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "slicedtomatoesrecipe"
+    },
+    {
+      "name": "Onedoller",
+      "type": "item",
+      "sortid": 82,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "onedoller"
+    },
+    {
+      "name": "Fivedollers",
+      "type": "item",
+      "sortid": 83,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "fivedollers"
+    },
+    {
+      "name": "Onedollerrecie",
+      "type": "recipe",
+      "sortid": 84,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "onedollerrecie"
+    },
+    {
+      "name": "Fivedollerrecipe",
+      "type": "recipe",
+      "sortid": 85,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "fivedollerrecipe"
+    },
+    {
+      "name": "Mrbeastpotion",
+      "type": "potion",
+      "sortid": 86,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "mrbeastpotion"
+    },
+    {
+      "name": "Mrbeastpotionrecipe",
+      "type": "recipe",
+      "sortid": 87,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "mrbeastpotionrecipe"
+    },
+    {
+      "name": "Slicedcheese",
+      "type": "food",
+      "sortid": 88,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "slicedcheese"
+    },
+    {
+      "name": "Slicedcheeserecipe",
+      "type": "recipe",
+      "sortid": 89,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "slicedcheeserecipe"
+    },
+    {
+      "name": "Cheeserecipe",
+      "type": "recipe",
+      "sortid": 90,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "cheeserecipe"
+    },
+    {
+      "name": "PlastickIngot",
+      "type": "item",
+      "sortid": 91,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "plastick_ingot"
+    },
+    {
+      "name": "PlastickOre",
+      "type": "block",
+      "sortid": 92,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "plastick_ore"
+    },
+    {
+      "name": "PlastickBlock",
+      "type": "block",
+      "sortid": 93,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "plastick_block"
+    },
+    {
+      "name": "PlastickOreBlockRecipe",
+      "type": "recipe",
+      "sortid": 94,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "plastick_ore_block_recipe"
+    },
+    {
+      "name": "PlastickBlockOreRecipe",
+      "type": "recipe",
+      "sortid": 95,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "plastick_block_ore_recipe"
+    },
+    {
+      "name": "PlastickOreSmelting",
+      "type": "recipe",
+      "sortid": 96,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "plastick_ore_smelting"
+    },
+    {
+      "name": "PlastickPickaxe",
+      "type": "tool",
+      "sortid": 97,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "plastick_pickaxe"
+    },
+    {
+      "name": "PlastickAxe",
+      "type": "tool",
+      "sortid": 98,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "plastick_axe"
+    },
+    {
+      "name": "PlastickSword",
+      "type": "tool",
+      "sortid": 99,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "plastick_sword"
+    },
+    {
+      "name": "PlastickShovel",
+      "type": "tool",
+      "sortid": 100,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "plastick_shovel"
+    },
+    {
+      "name": "PlastickHoe",
+      "type": "tool",
+      "sortid": 101,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "plastick_hoe"
+    },
+    {
+      "name": "PlastickPickaxeRecipe",
+      "type": "recipe",
+      "sortid": 102,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "plastick_pickaxe_recipe"
+    },
+    {
+      "name": "PlastickAxeRecipe",
+      "type": "recipe",
+      "sortid": 103,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "plastick_axe_recipe"
+    },
+    {
+      "name": "PlastickSwordRecipe",
+      "type": "recipe",
+      "sortid": 104,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "plastick_sword_recipe"
+    },
+    {
+      "name": "PlastickShovelRecipe",
+      "type": "recipe",
+      "sortid": 105,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "plastick_shovel_recipe"
+    },
+    {
+      "name": "PlastickHoeRecipe",
+      "type": "recipe",
+      "sortid": 106,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "plastick_hoe_recipe"
+    },
+    {
+      "name": "PlastickArmor",
+      "type": "armor",
+      "sortid": 107,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "plastick_armor",
+      "metadata": {
+        "eh": true,
+        "el": true,
+        "eb": true,
+        "ec": true
+      }
+    },
+    {
+      "name": "PlastickArmorHelmetRecipe",
+      "type": "recipe",
+      "sortid": 108,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "plastick_armor_helmet_recipe"
+    },
+    {
+      "name": "PlastickArmorBodyRecipe",
+      "type": "recipe",
+      "sortid": 109,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "plastick_armor_body_recipe"
+    },
+    {
+      "name": "PlastickArmorLeggingsRecipe",
+      "type": "recipe",
+      "sortid": 110,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "plastick_armor_leggings_recipe"
+    },
+    {
+      "name": "PlastickArmorBootsRecipe",
+      "type": "recipe",
+      "sortid": 111,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "plastick_armor_boots_recipe"
+    },
+    {
+      "name": "DrsgondustDust",
+      "type": "item",
+      "sortid": 112,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "drsgondust_dust"
+    },
+    {
+      "name": "DrsgondustOre",
+      "type": "block",
+      "sortid": 113,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "drsgondust_ore"
+    },
+    {
+      "name": "DrsgondustBlock",
+      "type": "block",
+      "sortid": 114,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "drsgondust_block"
+    },
+    {
+      "name": "DrsgondustOreBlockRecipe",
+      "type": "recipe",
+      "sortid": 115,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "drsgondust_ore_block_recipe"
+    },
+    {
+      "name": "DrsgondustBlockOreRecipe",
+      "type": "recipe",
+      "sortid": 116,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "drsgondust_block_ore_recipe"
+    },
+    {
+      "name": "DrsgondustOreSmelting",
+      "type": "recipe",
+      "sortid": 117,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "drsgondust_ore_smelting"
+    },
+    {
+      "name": "DrsgondustPickaxe",
+      "type": "tool",
+      "sortid": 118,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "drsgondust_pickaxe"
+    },
+    {
+      "name": "DrsgondustAxe",
+      "type": "tool",
+      "sortid": 119,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "drsgondust_axe"
+    },
+    {
+      "name": "DrsgondustSword",
+      "type": "tool",
+      "sortid": 120,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "drsgondust_sword"
+    },
+    {
+      "name": "DrsgondustShovel",
+      "type": "tool",
+      "sortid": 121,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "drsgondust_shovel"
+    },
+    {
+      "name": "DrsgondustHoe",
+      "type": "tool",
+      "sortid": 122,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "drsgondust_hoe"
+    },
+    {
+      "name": "DrsgondustPickaxeRecipe",
+      "type": "recipe",
+      "sortid": 123,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "drsgondust_pickaxe_recipe"
+    },
+    {
+      "name": "DrsgondustAxeRecipe",
+      "type": "recipe",
+      "sortid": 124,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "drsgondust_axe_recipe"
+    },
+    {
+      "name": "DrsgondustSwordRecipe",
+      "type": "recipe",
+      "sortid": 125,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "drsgondust_sword_recipe"
+    },
+    {
+      "name": "DrsgondustShovelRecipe",
+      "type": "recipe",
+      "sortid": 126,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "drsgondust_shovel_recipe"
+    },
+    {
+      "name": "DrsgondustHoeRecipe",
+      "type": "recipe",
+      "sortid": 127,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "drsgondust_hoe_recipe"
+    },
+    {
+      "name": "DrsgondustArmor",
+      "type": "armor",
+      "sortid": 128,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "drsgondust_armor",
+      "metadata": {
+        "eh": true,
+        "el": true,
+        "eb": true,
+        "ec": true
+      }
+    },
+    {
+      "name": "DrsgondustArmorHelmetRecipe",
+      "type": "recipe",
+      "sortid": 129,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "drsgondust_armor_helmet_recipe"
+    },
+    {
+      "name": "DrsgondustArmorBodyRecipe",
+      "type": "recipe",
+      "sortid": 130,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "drsgondust_armor_body_recipe"
+    },
+    {
+      "name": "DrsgondustArmorLeggingsRecipe",
+      "type": "recipe",
+      "sortid": 131,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "drsgondust_armor_leggings_recipe"
+    },
+    {
+      "name": "DrsgondustArmorBootsRecipe",
+      "type": "recipe",
+      "sortid": 132,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "drsgondust_armor_boots_recipe"
     }
   ],
   "variable_elements": [],
@@ -691,58 +1270,96 @@
   "language_map": {
     "en_us": {
       "enchantment.kid_gamer.dragon_wish": "Dragon Wish",
+      "item.kid_gamer.plastick_armor_leggings": "Plastick Leggings",
       "item.minecraft.tipped_arrow.effect.dragonbreath": "Arrow of Dragonbreath",
       "item.kid_gamer.dragondustem": "Dragondustem",
       "block.kid_gamer.magic": "Magic",
       "item.kid_gamer.dragonscalebowoffrost": "Dragonscalebowoffrost",
+      "item.minecraft.potion.effect.mrbeastpotion": "Potion of Mrbeastpotion",
+      "item.kid_gamer.drsgondust_pickaxe": "Drsgondust Pickaxe",
       "item.kid_gamer.cheese": "Cheese",
+      "item.kid_gamer.toematoe": "Toematoe",
+      "item.kid_gamer.onedoller": "Onedoller",
+      "item.minecraft.lingering_potion.effect.mrbeastpotion": "Lingering Potion of Mrbeastpotion",
+      "block.kid_gamer.plastick_block": "Block of Plastick",
       "block.kid_gamer.diededflower": "Diededflower",
+      "block.kid_gamer.drsgondust_ore": "Drsgondust Ore",
       "block.kid_gamer.dragondustem_block": "Block of Dragondustem",
+      "item.kid_gamer.plastick_pickaxe": "Plastick Pickaxe",
       "item.kid_gamer.pizza": "Pizza",
       "item.kid_gamer.rawdough": "Rawdough",
       "item.kid_gamer.mystic_gem": "Mystic Gem",
       "fluid.kid_gamer.magic": "Magic",
       "block.kid_gamer.drakeseed": "Drakeseed",
       "block.kid_gamer.youtubeore_ore": "Youtubeore Ore",
+      "block.kid_gamer.drsgondust_block": "Block of Drsgondust",
+      "block.kid_gamer.tomateoplant": "Tomateoplant",
+      "item.kid_gamer.plastick_armor_boots": "Plastick Boots",
       "item.kid_gamer.thow_pichaxe": "Thow Pichaxe",
       "block.kid_gamer.dirtliquid": "Dirtliquid",
       "item.kid_gamer.dads_wicked_sword": "Dads Wicked Sword",
       "item.minecraft.potion.effect.curse": "Potion of Curse",
       "block.kid_gamer.youtube_block": "Youtube Block",
       "item.kid_gamer.youtubeore": "Youtubeore",
+      "item.minecraft.splash_potion.effect.mrbeastpotion": "Splash Potion of Mrbeastpotion",
       "item.kid_gamer.crust": "Crust",
+      "item.kid_gamer.plastick_shovel": "Plastick Shovel",
       "item.minecraft.splash_potion.effect.dragonbreath": "Splash Potion of Dragonbreath",
+      "item.kid_gamer.drsgondust_sword": "Drsgondust Sword",
       "item.kid_gamer.rawcrust": "Rawcrust",
       "item.kid_gamer.noob_1234_land": "Noob 1 2 3 4 Land Portal Igniter",
       "item.kid_gamer.entitys_sythe": "Entitys Sythe",
       "item.kid_gamer.taco_shell": "Taco Shell",
+      "item.kid_gamer.plastick_hoe": "Plastick Hoe",
       "biome.kid_gamer.villageland": "Villageland",
       "item.kid_gamer.magic_bucket": "Magic Bucket",
       "item.kid_gamer.subscribe": "Subscribe",
+      "item.kid_gamer.knife": "Knife",
+      "item.kid_gamer.drsgondust_armor_chestplate": "Drsgondust Chestplate",
       "item.kid_gamer.dragondustsword": "Dragondustsword",
       "biome.kid_gamer.the_land_of_wheat": "The Land Of Wheat",
+      "item.kid_gamer.plastick_sword": "Plastick Sword",
+      "item.kid_gamer.drsgondust_shovel": "Drsgondust Shovel",
       "item.kid_gamer.legenderyninja_staff": "Legenderyninja Staff",
       "block.kid_gamer.dragondustem_ore": "Dragondustem Ore",
       "item.kid_gamer.magic_wand": "Magic Wand",
+      "item.kid_gamer.drsgondust_armor_leggings": "Drsgondust Leggings",
+      "item.kid_gamer.drsgondust_armor_boots": "Drsgondust Boots",
+      "item.kid_gamer.slicedtoematoes": "Slicedtoematoes",
       "item.minecraft.tipped_arrow.effect.curse": "Arrow of Curse",
       "item.kid_gamer.dragonfood": "Dragonfood",
       "item.kid_gamer.the_youtube_dimenshin": "The Youtube Dimenshin Portal Igniter",
+      "item.kid_gamer.drsgondust_hoe": "Drsgondust Hoe",
       "biome.kid_gamer.dragonland": "Dragonland",
+      "item.kid_gamer.drsgondust_dust": "Drsgondust",
       "item.minecraft.lingering_potion.effect.curse": "Lingering Potion of Curse",
       "item.kid_gamer.dragonscalebow": "Dragonscalebow",
       "item.kid_gamer.dirtliquid_bucket": "Dirtliquid Bucket",
       "block.kid_gamer.youtubeore_block": "Block of Youtubeore",
+      "item.kid_gamer.slicedcheese": "Slicedcheese",
+      "block.kid_gamer.cheeseblock": "Cheeseblock",
+      "item.kid_gamer.drsgondust_axe": "Drsgondust Axe",
       "item.kid_gamer.dragon_or_the_end": "Dragon Or The END Portal Igniter",
+      "item.minecraft.tipped_arrow.effect.mrbeastpotion": "Arrow of Mrbeastpotion",
       "item.minecraft.lingering_potion.effect.dragonbreath": "Lingering Potion of Dragonbreath",
+      "item.kid_gamer.plastick_ingot": "Plastick",
       "item.kid_gamer.kibble": "Kibble",
       "item.kid_gamer.like": "Like",
       "item.minecraft.potion.effect.dragonbreath": "Potion of Dragonbreath",
+      "item.kid_gamer.plastick_axe": "Plastick Axe",
       "item.kid_gamer.taco": "Taco",
+      "item.kid_gamer.drsgondust_armor_helmet": "Drsgondust Helmet",
+      "item.kid_gamer.dirtytoemeatoes": "Dirtytoemeatoes",
+      "item.kid_gamer.fivedollers": "Fivedollers",
       "item.minecraft.splash_potion.effect.curse": "Splash Potion of Curse",
       "item.kid_gamer.horchata": "Horchata",
+      "item.kid_gamer.bag": "Bag",
       "item.kid_gamer.cookeddough": "Cookeddough",
+      "item.kid_gamer.plastick_armor_helmet": "Plastick Helmet",
+      "item.kid_gamer.plastick_armor_chestplate": "Plastick Chestplate",
       "fluid.kid_gamer.dirtliquid": "Dirtliquid",
-      "item.kid_gamer.taco_and_sushhi": "Taco And Sushhi"
+      "item.kid_gamer.taco_and_sushhi": "Taco And Sushhi",
+      "block.kid_gamer.plastick_ore": "Plastick Ore"
     }
   },
   "foldersRoot": {

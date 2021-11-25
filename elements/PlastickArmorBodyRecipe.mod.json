@@ -1,0 +1,46 @@
+{
+  "_fv": 24,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Crafting",
+    "xpReward": 0.0,
+    "cookingTime": 200,
+    "recipeRetstackSize": 1,
+    "group": "",
+    "recipeShapeless": false,
+    "recipeSlots": [
+      {
+        "value": "CUSTOM:PlastickIngot"
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": "CUSTOM:PlastickIngot"
+      },
+      {
+        "value": "CUSTOM:PlastickIngot"
+      },
+      {
+        "value": "CUSTOM:PlastickIngot"
+      },
+      {
+        "value": "CUSTOM:PlastickIngot"
+      },
+      {
+        "value": "CUSTOM:PlastickIngot"
+      },
+      {
+        "value": "CUSTOM:PlastickIngot"
+      },
+      {
+        "value": "CUSTOM:PlastickIngot"
+      }
+    ],
+    "recipeReturnStack": {
+      "value": "CUSTOM:PlastickArmor.body"
+    },
+    "name": "plastick_armor_body_recipe",
+    "namespace": "mod"
+  }
+}

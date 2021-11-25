@@ -1,0 +1,12 @@
+{
+  "group": "kid_gamer",
+  "type": "minecraft:campfire_cooking",
+  "experience": 1,
+  "cookingtime": 100,
+  "ingredient": {
+    "item": "minecraft:milk_bucket"
+  },
+  "result": {
+    "item": "kid_gamer:cheeseblock"
+  }
+}

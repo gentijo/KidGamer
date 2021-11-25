@@ -1,0 +1,42 @@
+{
+  "group": "kid_gamer",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "kid_gamer:cheeseblock"
+    },
+    "1": {
+      "item": "kid_gamer:cheeseblock"
+    },
+    "2": {
+      "item": "kid_gamer:cheeseblock"
+    },
+    "3": {
+      "item": "kid_gamer:cheeseblock"
+    },
+    "4": {
+      "item": "kid_gamer:knife"
+    },
+    "5": {
+      "item": "kid_gamer:cheeseblock"
+    },
+    "6": {
+      "item": "kid_gamer:cheeseblock"
+    },
+    "7": {
+      "item": "kid_gamer:cheeseblock"
+    },
+    "8": {
+      "item": "kid_gamer:cheeseblock"
+    }
+  },
+  "result": {
+    "item": "kid_gamer:slicedcheese",
+    "count": 55
+  }
+}
