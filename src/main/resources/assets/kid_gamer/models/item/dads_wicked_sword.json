@@ -1,6 +1,6 @@
 {
   "parent": "item/handheld",
   "textures": {
-    "layer0": "kid_gamer:items/dads_wicked_sword_blue"
+    "layer0": "kid_gamer:items/dads_wicked_sword_red"
   }
 }
