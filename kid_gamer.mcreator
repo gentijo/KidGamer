@@ -656,18 +656,6 @@
       "registry_name": "cheese"
     },
     {
-      "name": "DadsWickedSwordMakeItemGlow",
-      "type": "procedure",
-      "sortid": 68,
-      "compiles": true,
-      "locked_code": false,
-      "ids": {},
-      "registry_name": "dads_wicked_sword_make_item_glow",
-      "metadata": {
-        "dependencies": []
-      }
-    },
-    {
       "name": "DadsWickedSword",
       "type": "tool",
       "sortid": 68,
