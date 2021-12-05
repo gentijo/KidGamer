@@ -1953,6 +1953,45 @@
       "locked_code": false,
       "ids": {},
       "registry_name": "blazegem_armor_boots_recipe"
+    },
+    {
+      "name": "TPtotheallinonedimenshin",
+      "type": "dimension",
+      "sortid": 222,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "t_ptotheallinonedimenshin",
+      "metadata": {
+        "ep": true
+      }
+    },
+    {
+      "name": "Enderpearlblock",
+      "type": "block",
+      "sortid": 219,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "enderpearlblock"
+    },
+    {
+      "name": "BlazeKingdom",
+      "type": "biome",
+      "sortid": 221,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "blaze_kingdom"
+    },
+    {
+      "name": "Enderpearlend",
+      "type": "biome",
+      "sortid": 220,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "enderpearlend"
     }
   ],
   "variable_elements": [],

@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "kid_gamer:blocks/enderpearl",
+    "up": "kid_gamer:blocks/enderpearl",
+    "north": "kid_gamer:blocks/enderpearl",
+    "east": "kid_gamer:blocks/enderpearl",
+    "south": "kid_gamer:blocks/enderpearl",
+    "west": "kid_gamer:blocks/enderpearl",
+    "particle": "kid_gamer:blocks/enderpearl"
+  }
+}

@@ -1,0 +1,58 @@
+{
+  "_fv": 24,
+  "_type": "dimension",
+  "definition": {
+    "biomesInDimension": [
+      {
+        "value": "CUSTOM:BlazeKingdom"
+      },
+      {
+        "value": "CUSTOM:Dragonland"
+      },
+      {
+        "value": "CUSTOM:Enderpearlend"
+      },
+      {
+        "value": "CUSTOM:TheLandOfWheat"
+      },
+      {
+        "value": "CUSTOM:Villageland"
+      }
+    ],
+    "worldGenType": "Normal world gen",
+    "mainFillerBlock": {
+      "value": "Blocks.BEACON"
+    },
+    "fluidBlock": {
+      "value": "Blocks.LOG"
+    },
+    "airColor": {
+      "value": -65536,
+      "falpha": 0.0
+    },
+    "canRespawnHere": true,
+    "hasFog": false,
+    "isDark": false,
+    "doesWaterVaporize": true,
+    "sleepResult": "ALLOW",
+    "hasSkyLight": true,
+    "imitateOverworldBehaviour": false,
+    "portalFrame": {
+      "value": "CUSTOM:Enderpearlblock"
+    },
+    "portalParticles": {
+      "value": "EXPLOSION_NORMAL"
+    },
+    "portalLuminance": 0,
+    "portalSound": {
+      "value": "block.portal.ambient"
+    },
+    "igniterName": "T Ptotheallinonedimenshin Portal Igniter",
+    "igniterTab": {
+      "value": "TOOLS"
+    },
+    "texture": "eee",
+    "portalTexture": "blazegem_ore_block",
+    "enablePortal": true
+  }
+}
