@@ -1,0 +1,30 @@
+{
+  "group": "kid_gamer",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    " 4 ",
+    " 7 "
+  ],
+  "key": {
+    "0": {
+      "item": "kid_gamer:inforno_ingot"
+    },
+    "1": {
+      "item": "kid_gamer:inforno_ingot"
+    },
+    "2": {
+      "item": "kid_gamer:inforno_ingot"
+    },
+    "4": {
+      "item": "minecraft:stick"
+    },
+    "7": {
+      "item": "minecraft:stick"
+    }
+  },
+  "result": {
+    "item": "kid_gamer:inforno_pickaxe",
+    "count": 1
+  }
+}

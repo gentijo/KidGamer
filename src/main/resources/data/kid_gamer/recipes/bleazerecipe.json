@@ -1,0 +1,30 @@
+{
+  "group": "kid_gamer",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " 1 ",
+    "345",
+    " 7 "
+  ],
+  "key": {
+    "1": {
+      "item": "minecraft:blaze_powder"
+    },
+    "3": {
+      "item": "minecraft:blaze_powder"
+    },
+    "4": {
+      "item": "kid_gamer:emttyluncher"
+    },
+    "5": {
+      "item": "minecraft:blaze_powder"
+    },
+    "7": {
+      "item": "minecraft:blaze_powder"
+    }
+  },
+  "result": {
+    "item": "kid_gamer:blazebreathlauncher",
+    "count": 1
+  }
+}

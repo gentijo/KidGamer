@@ -1,0 +1,33 @@
+{
+  "_fv": 24,
+  "_type": "tool",
+  "definition": {
+    "renderType": 0,
+    "texture": "blazegem_sword",
+    "customModelName": "Normal",
+    "name": "Blazegem Sword",
+    "specialInfo": [
+      "Burn magic"
+    ],
+    "creativeTab": {
+      "value": "COMBAT"
+    },
+    "toolType": "Sword",
+    "harvestLevel": 11,
+    "efficiency": 60.0,
+    "attackSpeed": 0.01,
+    "enchantability": 200,
+    "damageVsEntity": 55555.0,
+    "usageCount": 2719,
+    "blocksAffected": [],
+    "hasGlow": false,
+    "repairItems": [
+      {
+        "value": "CUSTOM:Blazegem"
+      }
+    ],
+    "immuneToFire": true,
+    "stayInGridWhenCrafting": false,
+    "damageOnCrafting": false
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "group": "kid_gamer",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "0 2",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "kid_gamer:daddust_block"
+    },
+    "2": {
+      "item": "kid_gamer:daddust_block"
+    },
+    "3": {
+      "item": "kid_gamer:daddust_block"
+    },
+    "4": {
+      "item": "kid_gamer:daddust_block"
+    },
+    "5": {
+      "item": "kid_gamer:daddust_block"
+    },
+    "6": {
+      "item": "kid_gamer:daddust_block"
+    },
+    "7": {
+      "item": "kid_gamer:daddust_block"
+    },
+    "8": {
+      "item": "kid_gamer:daddust_block"
+    }
+  },
+  "result": {
+    "item": "kid_gamer:daddust_armor_chestplate",
+    "count": 1
+  }
+}

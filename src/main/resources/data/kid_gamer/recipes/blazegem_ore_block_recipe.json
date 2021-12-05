@@ -1,0 +1,42 @@
+{
+  "group": "kid_gamer",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "kid_gamer:blazegem"
+    },
+    "1": {
+      "item": "kid_gamer:blazegem"
+    },
+    "2": {
+      "item": "kid_gamer:blazegem"
+    },
+    "3": {
+      "item": "kid_gamer:blazegem"
+    },
+    "4": {
+      "item": "kid_gamer:blazegem"
+    },
+    "5": {
+      "item": "kid_gamer:blazegem"
+    },
+    "6": {
+      "item": "kid_gamer:blazegem"
+    },
+    "7": {
+      "item": "kid_gamer:blazegem"
+    },
+    "8": {
+      "item": "kid_gamer:blazegem"
+    }
+  },
+  "result": {
+    "item": "kid_gamer:blazegem_block",
+    "count": 1
+  }
+}

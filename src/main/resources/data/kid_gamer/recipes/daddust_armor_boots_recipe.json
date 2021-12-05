@@ -1,0 +1,26 @@
+{
+  "group": "kid_gamer",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "0 2",
+    "3 5"
+  ],
+  "key": {
+    "0": {
+      "item": "kid_gamer:daddust_block"
+    },
+    "2": {
+      "item": "kid_gamer:daddust_block"
+    },
+    "3": {
+      "item": "kid_gamer:daddust_block"
+    },
+    "5": {
+      "item": "kid_gamer:daddust_block"
+    }
+  },
+  "result": {
+    "item": "kid_gamer:daddust_armor_boots",
+    "count": 1
+  }
+}

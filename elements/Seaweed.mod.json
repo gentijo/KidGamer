@@ -1,0 +1,28 @@
+{
+  "_fv": 24,
+  "_type": "food",
+  "definition": {
+    "renderType": 0,
+    "texture": "wdweda",
+    "customModelName": "Normal",
+    "name": "Seaweed",
+    "rarity": "COMMON",
+    "specialInfo": [
+      "Is it editble"
+    ],
+    "creativeTab": {
+      "value": "FOOD"
+    },
+    "stackSize": 64,
+    "nutritionalValue": 4,
+    "saturation": 0.3,
+    "eatingSpeed": 44,
+    "resultItem": {
+      "value": "Blocks.POTTED_DEAD_BUSH"
+    },
+    "forDogs": false,
+    "isAlwaysEdible": true,
+    "animation": "eat",
+    "hasGlow": false
+  }
+}

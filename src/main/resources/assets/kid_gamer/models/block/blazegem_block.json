@@ -1,0 +1,7 @@
+{
+  "parent": "block/cube_all",
+  "textures": {
+    "all": "kid_gamer:blocks/blazegem_ore_block",
+    "particle": "kid_gamer:blocks/blazegem_ore_block"
+  }
+}

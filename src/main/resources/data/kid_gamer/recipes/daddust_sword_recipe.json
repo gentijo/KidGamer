@@ -1,0 +1,24 @@
+{
+  "group": "kid_gamer",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "0",
+    "1",
+    "2"
+  ],
+  "key": {
+    "0": {
+      "item": "kid_gamer:daddust_dust"
+    },
+    "1": {
+      "item": "kid_gamer:daddust_dust"
+    },
+    "2": {
+      "item": "minecraft:stick"
+    }
+  },
+  "result": {
+    "item": "kid_gamer:daddust_sword",
+    "count": 1
+  }
+}

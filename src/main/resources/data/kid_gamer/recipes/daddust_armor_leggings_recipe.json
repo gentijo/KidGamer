@@ -1,0 +1,36 @@
+{
+  "group": "kid_gamer",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "3 5",
+    "6 8"
+  ],
+  "key": {
+    "0": {
+      "item": "kid_gamer:daddust_block"
+    },
+    "1": {
+      "item": "kid_gamer:daddust_block"
+    },
+    "2": {
+      "item": "kid_gamer:daddust_block"
+    },
+    "3": {
+      "item": "kid_gamer:daddust_block"
+    },
+    "5": {
+      "item": "kid_gamer:daddust_block"
+    },
+    "6": {
+      "item": "kid_gamer:daddust_block"
+    },
+    "8": {
+      "item": "kid_gamer:daddust_block"
+    }
+  },
+  "result": {
+    "item": "kid_gamer:daddust_armor_leggings",
+    "count": 1
+  }
+}

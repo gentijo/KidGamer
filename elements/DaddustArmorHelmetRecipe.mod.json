@@ -1,0 +1,46 @@
+{
+  "_fv": 24,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Crafting",
+    "xpReward": 0.0,
+    "cookingTime": 200,
+    "recipeRetstackSize": 1,
+    "group": "",
+    "recipeShapeless": false,
+    "recipeSlots": [
+      {
+        "value": "CUSTOM:DaddustBlock"
+      },
+      {
+        "value": "CUSTOM:DaddustBlock"
+      },
+      {
+        "value": "CUSTOM:DaddustBlock"
+      },
+      {
+        "value": "CUSTOM:DaddustBlock"
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": "CUSTOM:DaddustBlock"
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": ""
+      }
+    ],
+    "recipeReturnStack": {
+      "value": "CUSTOM:DaddustArmor.helmet"
+    },
+    "name": "daddust_armor_helmet_recipe",
+    "namespace": "mod"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "group": "kid_gamer",
+  "type": "minecraft:smelting",
+  "experience": 0.7,
+  "cookingtime": 200,
+  "ingredient": {
+    "item": "kid_gamer:inforno_ore"
+  },
+  "result": {
+    "item": "kid_gamer:inforno_ingot"
+  }
+}

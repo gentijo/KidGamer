@@ -1,0 +1,30 @@
+{
+  "group": "kid_gamer",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "01",
+    "23",
+    " 5"
+  ],
+  "key": {
+    "0": {
+      "item": "kid_gamer:blazegem"
+    },
+    "1": {
+      "item": "kid_gamer:blazegem"
+    },
+    "2": {
+      "item": "kid_gamer:blazegem"
+    },
+    "3": {
+      "item": "minecraft:stick"
+    },
+    "5": {
+      "item": "minecraft:stick"
+    }
+  },
+  "result": {
+    "item": "kid_gamer:blazegem_axe",
+    "count": 1
+  }
+}

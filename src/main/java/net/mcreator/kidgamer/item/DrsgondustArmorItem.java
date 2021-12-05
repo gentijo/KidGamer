@@ -29,7 +29,7 @@ public class DrsgondustArmorItem extends KidGamerModElements.ModElement {
 	@ObjectHolder("kid_gamer:drsgondust_armor_boots")
 	public static final Item boots = null;
 	public DrsgondustArmorItem(KidGamerModElements instance) {
-		super(instance, 128);
+		super(instance, 209);
 	}
 
 	@Override
@@ -37,17 +37,17 @@ public class DrsgondustArmorItem extends KidGamerModElements.ModElement {
 		IArmorMaterial armormaterial = new IArmorMaterial() {
 			@Override
 			public int getDurability(EquipmentSlotType slot) {
-				return new int[]{13, 15, 16, 11}[slot.getIndex()] * 15;
+				return new int[]{13, 15, 16, 11}[slot.getIndex()] * 150;
 			}
 
 			@Override
 			public int getDamageReductionAmount(EquipmentSlotType slot) {
-				return new int[]{2, 6, 5, 2}[slot.getIndex()];
+				return new int[]{20, 60, 50, 20}[slot.getIndex()];
 			}
 
 			@Override
 			public int getEnchantability() {
-				return 9;
+				return 90;
 			}
 
 			@Override
@@ -57,7 +57,7 @@ public class DrsgondustArmorItem extends KidGamerModElements.ModElement {
 
 			@Override
 			public Ingredient getRepairMaterial() {
-				return Ingredient.fromStacks(new ItemStack(DrsgondustDustItem.block));
+				return Ingredient.fromStacks(new ItemStack(DrsgondustArmorItem.helmet));
 			}
 
 			@OnlyIn(Dist.CLIENT)

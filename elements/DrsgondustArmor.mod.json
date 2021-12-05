@@ -42,12 +42,12 @@
     "bodyImmuneToFire": false,
     "leggingsImmuneToFire": false,
     "bootsImmuneToFire": false,
-    "maxDamage": 15,
-    "damageValueHelmet": 2,
-    "damageValueBody": 5,
-    "damageValueLeggings": 6,
-    "damageValueBoots": 2,
-    "enchantability": 9,
+    "maxDamage": 150,
+    "damageValueHelmet": 20,
+    "damageValueBody": 50,
+    "damageValueLeggings": 60,
+    "damageValueBoots": 20,
+    "enchantability": 90,
     "toughness": 0.0,
     "knockbackResistance": 0.0,
     "equipSound": {
@@ -55,7 +55,7 @@
     },
     "repairItems": [
       {
-        "value": "CUSTOM:DrsgondustDust"
+        "value": "CUSTOM:DrsgondustArmor.helmet"
       }
     ]
   }

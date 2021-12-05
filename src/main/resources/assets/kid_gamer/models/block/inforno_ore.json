@@ -1,0 +1,7 @@
+{
+  "parent": "block/cube_all",
+  "textures": {
+    "all": "kid_gamer:blocks/inforno_ore",
+    "particle": "kid_gamer:blocks/inforno_ore"
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "group": "kid_gamer",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "minecraft:lava_bucket"
+    },
+    "1": {
+      "item": "minecraft:sandstone_stairs"
+    },
+    "2": {
+      "item": "minecraft:iron_block"
+    },
+    "3": {
+      "item": "minecraft:sandstone_stairs"
+    },
+    "4": {
+      "item": "kid_gamer:youtube_block"
+    },
+    "5": {
+      "item": "minecraft:iron_trapdoor"
+    },
+    "6": {
+      "item": "minecraft:lever"
+    },
+    "7": {
+      "item": "minecraft:lever"
+    },
+    "8": {
+      "item": "minecraft:oak_wood"
+    }
+  },
+  "result": {
+    "item": "kid_gamer:emttyluncher",
+    "count": 1
+  }
+}
